@@ -1,9 +1,9 @@
-# GabTech0
+# empresacatech
 
 ---
 
 ## About me
 
-## Este repositorio tiene el propósito de praticar el desarrollo un sitio web ecommerce.
+## Este repositorio tiene el propósito de practicar el desarrollo un sitio web empresarial.
 
 Creado por: [Gabriel](https://github.com/iGabe23)
