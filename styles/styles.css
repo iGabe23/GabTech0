@@ -458,6 +458,9 @@ body {
 }
 
 @media (max-width: 992px) {
+  .logo {
+    color: var(--main-button-color) !important;
+  }
   .navbar {
     background-color: var(--main-text-color);
   }
@@ -532,6 +535,9 @@ body {
 }
 
 @media (max-width: 768px) {
+  .logo {
+    color: var(--main-button-color) !important;
+  }
   .content-home2 {
     height: auto;
   }
@@ -595,6 +601,9 @@ body {
 }
 
 @media (max-width: 576px) {
+  .logo {
+    color: var(--main-button-color) !important;
+  }
   .img-home {
     width: 340px;
     margin-top: 50px;
@@ -604,5 +613,14 @@ body {
   .home-heading {
     font-size: 32px;
     line-height: 52px;
+  }
+}
+
+@media (max-width: 320px) {
+  .logo {
+    color: var(--main-button-color) !important;
+  }
+  .img-home {
+    width: 250px;
   }
 }
