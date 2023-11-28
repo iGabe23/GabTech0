@@ -528,7 +528,7 @@ img {
 
 @media (max-width: 1500px) {
   .heading-contact {
-    margin-bottom: 60px !important;
+    margin-bottom: 60px;
     margin-top: 90px;
   }
 }
@@ -828,6 +828,17 @@ img {
   }
   .about-us-container {
     padding-top: 11rem;
+  }
+  .heading-product {
+    font-size: 25px;
+    margin-left: 25px;
+    margin-bottom: 2px;
+  }
+  .heading-contact {
+    margin-bottom: 20px;
+  }
+  .contact-form {
+    height: auto;
   }
 
   .content-contact {
