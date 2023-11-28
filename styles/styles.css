@@ -644,7 +644,7 @@ img {
     color: var(--main-button-color) !important;
   }
   .content-home2 {
-    height: auto;
+    height: 100vh;
   }
 
   .box-container {
