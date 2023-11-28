@@ -816,6 +816,8 @@ img {
     padding-right: 30px;
     width: 250px;
   }
+  .content-home {
+  }
   .box-container2 {
     padding-left: 12px;
   }
@@ -827,7 +829,7 @@ img {
     margin: 5px;
   }
   .about-us-container {
-    padding-top: 11rem;
+    padding-top: 13rem;
   }
   .heading-product {
     font-size: 25px;
